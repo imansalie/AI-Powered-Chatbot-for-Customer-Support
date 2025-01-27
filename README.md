@@ -24,4 +24,3 @@ An AI-driven chatbot designed to provide tailored customer support and answer FA
 ### Database
 - **MongoDB:** Stores user interaction logs for analytics and model improvement.
 
-## Project Structure
